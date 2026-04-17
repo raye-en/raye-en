@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**raye-en/raye-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola 👋
 
-Here are some ideas to get you started:
+Soy Ingeniera de Datos con experiencia en el desarrollo de pipelines ETL y procesamiento de datos a gran escala.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+He trabajado con tecnologías como SQL, Python, Apache Spark y Databricks, participando en la construcción y optimización de procesos de datos.
+
+Actualmente estoy actualizando este GitHub para reflejar mejor mi experiencia profesional.  
+Pronto estaré subiendo proyectos relacionados a pipelines de datos, procesos ETL y tecnologías cloud.
+
+### Tecnologías
+- SQL
+- Python
+- Apache Spark
+- Power BI / Tableau
